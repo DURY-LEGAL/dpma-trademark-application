@@ -1,0 +1,25 @@
+{
+  "name": "dpma-trademark-application",
+  "version": "0.1.0",
+  "description": "DPMA trademark application helper - German Patent and Trademark Office integration. Powered by DURY LEGAL.",
+  "keywords": [
+    "dpma",
+    "trademark",
+    "application",
+    "filing",
+    "germany",
+    "legal-tech",
+    "dury-legal"
+  ],
+  "author": "DURY LEGAL Rechtsanwaelte <info@dury.de> (https://www.dury.de)",
+  "license": "MIT",
+  "homepage": "https://www.dury.de",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DURY-LEGAL/dpma-trademark-application.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Tests coming soon'"
+  }
+}
